@@ -53,6 +53,9 @@ class BottomSheetDialogFragmentSample : BottomSheetDialogFragment(),ItemAdapter.
         items.add("Item 2")
         items.add("Item 3")
         items.add("Item 4")
+        items.add("Item 2")
+        items.add("Item 3")
+        items.add("Item 4")
         items.add("Item 5")
         items.add("Item 6")
 
